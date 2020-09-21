@@ -19,3 +19,4 @@
 /dev/block/bootdevice/by-name/config		/frp			emmc	defaults							defaults
 
 /dev/block/zram0                                none                    swap    defaults                                                        zramsize=536870912,max_comp_streams=8
+
